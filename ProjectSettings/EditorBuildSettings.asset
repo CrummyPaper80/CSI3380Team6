@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu Scene.unity
+    guid: 291f543824848ea42b9ef544e743d63e
+  - enabled: 1
+    path: Assets/Scenes/Prototype Scene.unity
+    guid: adf45c1a7f2344447a328c55a0897130
+  - enabled: 1
+    path: Assets/Scenes/Lvl 1 - Sewers.unity
+    guid: 5fae0040303b2f744a07febebe129d39
+  - enabled: 1
+    path: Assets/Scenes/Lvl 2 - Buildings.unity
+    guid: f413e299b080f094da3e14055a88e097
+  - enabled: 1
+    path: Assets/Scenes/Lvl 3 - Sky.unity
+    guid: 09c12c5278bb0594899978ecae510961
+  - enabled: 1
+    path: Assets/Scenes/Lvl 4 - UFO.unity
+    guid: a13cecbffcd9e3640a057ee48661a8b4
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Level.unity
+    guid: ca88d211c525e824da499033a31050fd
+  - enabled: 1
+    path: Assets/Scenes/Level Select Menu.unity
+    guid: a5e4ef0a71725924482b6c986675cdd4
+  m_configObjects: {}
